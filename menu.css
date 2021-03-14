@@ -6,7 +6,7 @@ ul {
 	position: sticky;
 	top: 0;
 	border: 1px solid #e7e7e7;
-	background-color: #f3f3f3;
+	background-color: #0a0a0a;
 	overflow: hidden;
 }
 
@@ -23,8 +23,8 @@ li a {
 }
 
 li a:hover {
-	background-color: #e2e2e2;
+	background-color: #000000;
 }
 li a.active{
-	background-color: #33ff33;
+	background-color: #000033;
 }
