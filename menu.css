@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+
 ul {
 	list-style-type: none;
 	margin: 0;
@@ -6,8 +8,9 @@ ul {
 	position: sticky;
 	top: 0;
 	border: 1px solid #e7e7e7;
-	background-color: #0a0a0a;
+	background-color: #666666;
 	overflow: hidden;
+	font-family: "Open Sans";
 }
 
 li {
@@ -26,5 +29,5 @@ li a:hover {
 	background-color: #000000;
 }
 li a.active{
-	background-color: #000033;
+	background-color: #0000aa;
 }
